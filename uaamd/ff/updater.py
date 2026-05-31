@@ -6,6 +6,8 @@ SYSTEM_FF_PATHS = [
     "/usr/share/gromacs/top",
     "/usr/local/share/gromacs/top",
     "/opt/gromacs/share/gromacs/top",
+    "/opt/homebrew/share/gromacs/top",        
+    "/usr/local/opt/gromacs/share/gromacs/top",
 ]
 
 FF_PREFERENCE = [
