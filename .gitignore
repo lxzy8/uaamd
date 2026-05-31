@@ -1,0 +1,25 @@
+# Output folders
+uaamd_out/
+*.tpr
+*.gro
+*.top
+*.itp
+*.trr
+*.xtc
+*.edr
+*.log
+\#*\#
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.env
+
+# Force field (downloaded separately)
+~/.uaamd/
+
+# OS
+.DS_Store
